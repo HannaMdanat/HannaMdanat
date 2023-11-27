@@ -30,7 +30,7 @@
 <hr/>
 
 <div align="center">
-  <h2>🐍 My Contributions 🐍</h2>
+  <h2>💻 My Contributions 💻</h2>
   <img width=390 src="https://github-readme-streak-stats.herokuapp.com/?user=hannamdanat&count_private=true&theme=react&border_radius=10" alt="streak stats"/>
 </div>
 
